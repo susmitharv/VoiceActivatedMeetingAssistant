@@ -1,0 +1,5 @@
+Flask
+flask-cors
+spacy
+google-cloud-speech
+werkzeug
